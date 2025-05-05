@@ -1,0 +1,10 @@
+name = "UheBsm"
+uuid = "7f07962c-941f-45ca-b37d-c5867083d129"
+authors = ["Jeffrey Lazar <jeff.p.lazar@gmail.com>"]
+version = "0.1.0"
+
+[deps]
+LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
+
+[compat]
+LinearAlgebra = "1.11.0"
